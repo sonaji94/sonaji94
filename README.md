@@ -48,11 +48,11 @@ Actively looking for **Software / Python Internship opportunities**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonaji94&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sonaji94" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaji94&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonaji94&layout=compact" />
 </p>
 
 
