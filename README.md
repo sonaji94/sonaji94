@@ -46,6 +46,13 @@ Actively looking for **Software / Python Internship opportunities**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonaji94&show_icons=true&hide_title=true&theme=default" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonaji94&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaji94&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 
 ---
 
