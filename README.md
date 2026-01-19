@@ -1,47 +1,60 @@
-<h1 align="center">Hi, I'm Sonu 👋</h1>
-<h3 align="center">3rd Year CSE Student | Aspiring Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm SonajiRao</h1>
+<h3 align="center">3rd Year CSD Student | Aspiring Software Engineer</h3>
+
+<p align="center">
+  <a href="https://github.com/sonaji94">GitHub</a> •
+  <a href="https://linkedin.com/in/sonajirao">LinkedIn</a> •
+  <a href="mailto:sonajirao9497@gmail.com">Email</a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Computer Science Engineering student (3rd Year)
-- 🐍 Currently learning **Python** and building real-world projects
-- 🌱 Interested in **Web Development** and **Data Analysis**
-- 🎯 Actively seeking **Software / Python Internship opportunities**
-- 💡 Strong believer in learning by building
+## 👨‍💻 About Me
+I’m a **Computer Science and Design student** passionate about building real-world applications and continuously improving my problem-solving skills.  
+Currently focused on **Python development**, **Django-based web applications**, and **data analysis**.  
+Actively looking for **Software / Python Internship opportunities**.
 
 ---
 
-### 🛠 Skills
-- **Languages:** Python, SQL (Basic)
-- **Frameworks:** Django
-- **Web Basics:** HTML, CSS
-- **Data Analysis:** Pandas, NumPy, Matplotlib
-- **Databases:** SQLite
-- **Tools:** Git, GitHub
+## 🛠 Tech Stack
+**Languages:** Python, SQL (Basic)  
+**Backend:** Django  
+**Frontend:** HTML, CSS  
+**Data Analysis:** Pandas, NumPy, Matplotlib  
+**Databases:** SQLite  
+**Tools:** Git, GitHub  
 
 ---
 
-### 🚀 Projects
-#### 🔹 Django Blogging Web Application
-- Built a full-stack blogging platform with user authentication
-- Implemented CRUD operations and database integration
-- Focused on clean backend logic and project structure
+## 🚀 Featured Projects
 
-#### 🔹 Python Data Analysis Project
-- Performed data cleaning and exploratory data analysis
-- Visualized trends and extracted meaningful insights from data
-- Worked with real-world datasets using Pandas and Matplotlib
+### 📝 Django Blogging Web Application
+- Full-stack blogging platform with user authentication
+- CRUD functionality for posts and categories
+- Clean backend architecture using Django ORM
+- Focused on maintainability and readable code
 
----
-
-### 📌 Currently Learning
-- Django REST Basics
-- Improving Python problem-solving
-- Writing clean and readable code
+### 📊 Python Data Analysis Project
+- Cleaned and analyzed real-world datasets
+- Performed exploratory data analysis (EDA)
+- Visualized trends and patterns using Matplotlib
+- Derived insights to support data-driven decisions
 
 ---
 
-### 🤝 Connect With Me
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=default" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Django REST basics
+- Writing clean & scalable Python code
+- Improving DSA fundamentals
+
+---
+
+## 🤝 Let’s Connect
+Feel free to reach out if you’d like to collaborate, discuss projects, or talk about internships.
