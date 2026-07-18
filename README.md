@@ -16,7 +16,7 @@
 ![Location](https://img.shields.io/badge/Location-India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5B21B6?style=for-the-badge&logo=vercel&logoColor=white&link=https://your-portfolio-url.com)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/sonajirao)
-![Email](https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sonajirao9497@gmail.com)
+![Email](https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sonajiirao@gmail.com)
 ![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/sonaji94)
 
 <br/>
@@ -76,7 +76,7 @@ With a strong foundation in **Python development** and **web technologies**, I c
       <b>Languages</b>
     </td>
     <td width="528">
-      <img src="https://skillicons.dev/icons?i=python,sql" alt="Languages" width="300"/>
+      ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
     </td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ With a strong foundation in **Python development** and **web technologies**, I c
       <b>Frontend</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" width="300"/>
+      ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
     </td>
   </tr>
   <tr>
@@ -92,26 +92,44 @@ With a strong foundation in **Python development** and **web technologies**, I c
       <b>Backend & Databases</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=django,sqlite" alt="Backend" width="300"/>
+      ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Data Analysis</b>
+      <b>Data Science & AI</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,jupyter" alt="Data Analysis" width="300"/>
+      ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Tools</b>
+      <b>Cloud & DevOps</b>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" width="300"/>
+      ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+<h2>🤖 AI / ML Expertise</h2>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:312E81&height=100&section=separator" width="100%" alt="Separator"/>
+</p>
+
+| Domain | Proficiency | Details |
+|:------:|:----------:|:--------|
+| ![ML](https://img.shields.io/badge/Machine_Learning-Advanced-5B21B6?style=flat-square) | ██████████ 90% | scikit-learn, TensorFlow, Model Training |
+| ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Advanced-5B21B6?style=flat-square) | █████████░ 88% | Pandas, NumPy, Matplotlib, EDA |
+| ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Intermediate-5B21B6?style=flat-square) | ███████░░░ 75% | PyTorch, TensorFlow, Neural Networks |
+| ![NLP](https://img.shields.io/badge/NLP-Intermediate-5B21B6?style=flat-square) | ███████░░░ 70% | Text Processing, Sentiment Analysis |
+| ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Beginner-5B21B6?style=flat-square) | █████░░░░░ 50% | Image Processing Basics |
 
 ---
 
@@ -150,7 +168,7 @@ A **full-stack blogging platform** built with Django featuring user authenticati
 
 | Stack | Features | Analysis | Visualization | Insights | Repository |
 |:------|:---------|:---------|:--------------|:---------|:-----------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) | Data Cleaning, EDA | Statistical Analysis | Trend Viz | Data-Driven Decisions | [![Repo](https://img.shields.io/badge/Repository-5B21B6?style=flat-square&logo=github&logoColor=white)](https://github.com/sonaji94) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) | Data Cleaning, EDA | Statistical Analysis | Trend Viz | Data-Driven | [![Repo](https://img.shields.io/badge/Repository-5B21B6?style=flat-square&logo=github&logoColor=white)](https://github.com/sonaji94) |
 
 A comprehensive **data analysis project** demonstrating end-to-end data processing capabilities. Includes data cleaning, exploratory data analysis, and visualization to derive meaningful insights from real-world datasets.
 
@@ -239,20 +257,21 @@ A comprehensive **data analysis project** demonstrating end-to-end data processi
 
 <br/>
 
-**📊 Data Science & Analysis**
+**📊 Data Science & AI**
 <br/>
 <br/>
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 <br/>
 
-**🔧 Tools & Version Control**
+**🔧 Tools & Cloud**
 <br/>
 <br/>
-![Git](https://img.shields.io/badge/Git-5B21B6?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -289,35 +308,21 @@ A comprehensive **data analysis project** demonstrating end-to-end data processi
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sonaji94&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=sonaji94&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonaji94&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C4B5FD&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6B21A8" alt="GitHub Streak" width="400"/>
+      <img src="https://streak-stats.demolab.com/?user=sonaji94&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="400"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaji94&layout=compact&theme=radical&hide_border=true&title_color=8B5CF6&text_color=C4B5FD&langs_count=8&bg_color=0D1117&show_border=false" alt="Top Languages" width="400"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="400"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sonaji94&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&hide=issues,prs,contribs" alt="Extra Stats" width="400"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=sonaji94&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&title_color=8B5CF6&ring_color=8B5CF6&bg_color=0D1117" alt="GitHub Trophies" width="400"/>
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-<h2>🏅 GitHub Trophies</h2>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:312E81&height=100&section=separator" width="100%" alt="Separator"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonaji94&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&title_color=8B5CF6&ring_color=8B5CF6&bg_color=0D1117" alt="GitHub Trophies" width="800"/>
-</p>
 
 ---
 
@@ -331,6 +336,20 @@ A comprehensive **data analysis project** demonstrating end-to-end data processi
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonaji94&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=C4B5FD&area_color=5B21B6&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="100%"/>
+</p>
+
+---
+
+<div align="center">
+<h2>🔝 Top Contributed Repo</h2>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:312E81&height=100&section=separator" width="100%" alt="Separator"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sonaji94&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="100%"/>
 </p>
 
 ---
@@ -393,6 +412,20 @@ sonaji94:
 ---
 
 <div align="center">
+<h2>✍️ Random Dev Quote</h2>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:312E81&height=100&section=separator" width="100%" alt="Separator"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" width="600"/>
+</p>
+
+---
+
+<div align="center">
 <h2>🤝 Connect</h2>
 </div>
 
@@ -402,8 +435,9 @@ sonaji94:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonajirao9497@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonajirao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonajirao)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sonajiipawar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonajiirao@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonaji94)
 
 </div>
@@ -416,7 +450,7 @@ sonaji94:
 
 <br/>
 
-![Visitors](https://komarev.github.io/ghprofile-counter/avatar.svg?username=sonaji94&theme=flat-square&label=Profile+Views)
+![Profile Views](https://visitcount.itsvg.in/api?badge_type=6&badge_color=7&username=sonaji94)
 
 </div>
 
