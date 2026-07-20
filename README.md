@@ -226,7 +226,7 @@ Always eager to learn, build, and collaborate on projects that push the boundari
 </p>
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=highcontrast&hide_border=true&layout=compact" />
+  <img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=highcontrast&hide_border=true&layout=compact" />
 </p>
 
 <h4 style="color: #8B5CF6;">Contribution Graph</h4>
