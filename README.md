@@ -230,7 +230,7 @@ Always eager to learn, build, and collaborate on projects that push the boundari
     </td>
     <td width="50%">
       <h4 style="color: #8B5CF6;">GitHub Streak</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonaji94&theme=dark&hide_border=true" width="100%"/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sonaji94&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
   <tr>
@@ -240,7 +240,7 @@ Always eager to learn, build, and collaborate on projects that push the boundari
     </td>
     <td width="50%">
       <h4 style="color: #8B5CF6;">GitHub Trophy</h4>
-      <img src="https://github-profile-trophy.vercel.app/?username=sonaji94&theme=algolia&no-frame=true&no-bg=true&column=7" width="100%"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=sonaji94&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
     </td>
   </tr>
 </table>
