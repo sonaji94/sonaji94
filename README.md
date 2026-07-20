@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Developer+%26+AI+Engineer;Building+Intelligent+Systems+at+Scale;Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" width="600"/>
 </a>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=sonaji94&label=Profile%20Views&color=5B21B6&style=for-the-badge" alt="sonaji94"/>
 
 </div>
 
