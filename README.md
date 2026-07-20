@@ -224,28 +224,26 @@ Always eager to learn, build, and collaborate on projects that push the boundari
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <h4 style="color: #8B5CF6;">GitHub Stats</h4>
       <img src="https://github-readme-stats.shion.dev/api?username=sonaji94&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false" width="100%"/>
     </td>
-    <td width="50%">
+
+    <td width="50%" align="center">
       <h4 style="color: #8B5CF6;">GitHub Streak</h4>
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sonaji94&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sonaji94&theme=tokyonight&hide_border=true" width="100%"/>
     </td>
   </tr>
+
   <tr>
-    <td width="50%">
+    <td colspan="2" align="center">
       <h4 style="color: #8B5CF6;">Top Languages</h4>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="100%"/>
-    </td>
-    <td width="50%">
-      <h4 style="color: #8B5CF6;">GitHub Action</h4>
-      <img src="https://raw.githubusercontent.com/sonaji94/sonaji94/main/assets/live-status.svg" width="100%">
-      
-     
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=highcontrast&hide_border=true&layout=compact" width="55%"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 <h4 style="color: #8B5CF6;">Contribution Graph</h4>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonaji94&theme=tokyo-night&hide_border=true" width="100%"/>
