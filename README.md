@@ -240,7 +240,8 @@ Always eager to learn, build, and collaborate on projects that push the boundari
     </td>
     <td width="50%">
       <h4 style="color: #8B5CF6;">GitHub Metrics</h4>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonaji94&theme=tokyonight" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonaji94&theme=tokyo-night&hide_border=true" width="100%"/>
+     
     </td>
   </tr>
 </table>
