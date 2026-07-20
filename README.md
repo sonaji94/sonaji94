@@ -239,7 +239,8 @@ Always eager to learn, build, and collaborate on projects that push the boundari
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="100%"/>
     </td>
     <td width="50%">
-      <h4 style="color: #8B5CF6;">GitHub Metrics</h4>
+      <h4 style="color: #8B5CF6;">GitHub Action</h4>
+      <img src="https://raw.githubusercontent.com/sonaji94/sonaji94/main/assets/live-status.svg" width="100%">
       
      
     </td>
