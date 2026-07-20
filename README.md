@@ -222,7 +222,7 @@ Always eager to learn, build, and collaborate on projects that push the boundari
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=sonaji94&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false" />
-  <img width="52%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sonaji94&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sonaji94&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
