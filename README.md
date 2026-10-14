@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Add your cyber-terminal banner image to this repository at assets/terminal-profile.png -->
-<img src="assets/terminal-profile.png" width="100%" alt="Sonajirao's cyber terminal profile banner" />
-
 # Hi, I'm Sonajirao 👋
 
 **Full-Stack Developer | Backend Development | AI Projects**
@@ -16,7 +13,8 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
 
 </div>
 
----
+<!-- Upload your cyber-terminal banner to this repository as assets/terminal-profile.png -->
+<img width="1738" height="905" alt="terminal-profile" src="https://github.com/user-attachments/assets/5dd1a1c4-d86d-449b-ac41-35c85280c72a" />
 
 ### 🛠️ Tech Stack
 
@@ -28,7 +26,7 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
 
 ### 🚀 Featured Projects
 
-- **[NyayaAI](https://github.com/sonaji94/NyayaAI)** — Exploring AI-powered legal assistance.
+- **[NyayaAI](https://github.com/sonaji94/NyayaAI)** — AI-powered legal assistance project.
 - **[Queue Cure](https://github.com/sonaji94/Queue-Cure)** — Real-time clinic queue management using FastAPI and WebSockets.
 - **[All-in-One Donation System](https://github.com/sonaji94/All-in-One-Donation-System)** — A Django platform for managing donations.
 
@@ -41,10 +39,25 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sonaji94&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Sonajirao's GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=sonaji94&theme=tokyonight&hide_border=true" alt="Sonajirao's GitHub streak" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaji94&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+</div>
+
+---
+
 <div align="center">
 
 *“Learn consistently. Build useful things. Keep improving.”*
 
-![Profile Views](https://komarev.com/ghpvc/?username=sonaji94&style=flat-square&color=00ff41)
+[![Hits](https://hits.sh/github.com/sonaji94.svg?style=flat-square&label=Profile+Views&extraPrefix=%20&color=2ea44f&labelColor=333333)](https://hits.sh/github.com/sonaji94/)
 
 </div>
