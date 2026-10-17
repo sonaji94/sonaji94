@@ -41,13 +41,14 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonaji94&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Sonajirao's GitHub stats" />
+  <a href="https://git.io/streak-stats">
+    <img height="165" src="https://streak-stats.demolab.com?user=sonaji94&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sonaji94&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Sonajirao's GitHub stats" />
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sonaji94&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
+  
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaji94&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 
 </div>
