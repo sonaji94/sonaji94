@@ -44,7 +44,7 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonaji94&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Sonajirao's GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=sonaji94&theme=tokyonight&hide_border=true" alt="Sonajirao's GitHub streak" />
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sonaji94&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
