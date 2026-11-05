@@ -13,8 +13,6 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
 
 </div>
 
-<!-- Upload your cyber-terminal banner to this repository as assets/terminal-profile.png -->
-<img width="1738" height="905" alt="terminal-profile" src="https://github.com/user-attachments/assets/5dd1a1c4-d86d-449b-ac41-35c85280c72a" />
 
 ### 🛠️ Tech Stack
 
