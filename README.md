@@ -40,9 +40,9 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Top Row: 2 Cards Side-by-Side -->
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=sonaji94&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=sonaji94&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
+  <!-- Top Row: 2 Cards Side-by-Side (Equalized Heights) -->
+  <img width="46%" src="https://github-readme-stats.shion.dev/api?username=sonaji94&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sonaji94&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
   
   <br/><br/>
   
