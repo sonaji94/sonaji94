@@ -39,11 +39,15 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=sonaji94&theme=tokyonight&hide_border=true" alt="Sonajirao's GitHub Streak" />
-</p>
-
 <div align="center">
+  <!-- Top Row: 2 Cards Side-by-Side -->
+  <img height="175" src="https://github-readme-stats.shion.dev/api?username=sonaji94&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=sonaji94&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <!-- Bottom Row: 1 Card Centered -->
+  <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
