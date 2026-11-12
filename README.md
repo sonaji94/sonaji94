@@ -47,7 +47,7 @@ Currently strengthening my backend skills and learning **Java with Spring Boot**
   <br/><br/>
   
   <!-- Bottom Row: 1 Card Centered -->
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="35%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sonaji94&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
